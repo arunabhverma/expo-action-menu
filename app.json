@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-tv-action-menu",
-    "slug": "expo-tv-action-menu",
+    "name": "expo-action-menu",
+    "slug": "expo-action-menu",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -26,9 +26,7 @@
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
-    "plugins": [
-      "expo-router"
-    ],
+    "plugins": ["expo-router"],
     "experiments": {
       "typedRoutes": true
     }
